@@ -1,4 +1,5 @@
 # hello-world
+readme-edits aangemaakt en nu aanpassen 01-09-2026
 learn how to use github
 auteur: FvSpiegel
 dd: 6-8-2018
